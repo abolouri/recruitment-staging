@@ -1,8 +1,4 @@
 <?php
-/**
- * @package Hello_Dolly
- * @version 1.7.2
- */
 /*
 Plugin Name: THRecruitment-WP
 Description: Portal plugin to manage recruitment candidates, send e-mails, classify CVs (and possibly? run A/B tests)
